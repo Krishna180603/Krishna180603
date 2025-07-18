@@ -66,8 +66,15 @@
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <!-- IBM Cognos -->
+<img src="https://img.icons8.com/color/48/000000/ibm.png" alt="Cognos" width="40"/>
+
+<!-- IBM SPSS -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/SPSS_logo.svg" alt="SPSS" width="60"/>
+
+<!-- LangChain -->
+<img src="https://seeklogo.com/images/L/langchain-logo-04196A8E18-seeklogo.com.png" alt="LangChain" width="60"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 </p>
